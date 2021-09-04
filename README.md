@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning Web Development 🤣
 - 👯 I’m eager to Learn About BlockChain After I master the basics of Web Development
-- 🥅 2021 Goals: To get A job at a Awesome firm
+- 🥅 2021 Goals: To get A job at an Awesome firm
 - ⚡ About Me: I love to play chess and play video games
 
 ### Connect with me:
