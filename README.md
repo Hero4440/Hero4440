@@ -44,7 +44,7 @@
 
 </details>
 
-<!-- [website]:  -->
+[website]:https://hero4440.github.io/Personal-Website/
 [youtube]: https://www.youtube.com/channel/UCJPNUXaczPKuUsHPplVXRbg
 [linkedin]: https://www.linkedin.com/in/tejas-shah-4820bb195/
 
