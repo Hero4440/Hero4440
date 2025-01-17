@@ -1,48 +1,48 @@
-### Hi there, I'm Tejas - aka [Hero][website] 💻🍕🎬👋
+# Hi there, I'm Tejas 👋  
 
-<!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
+## 🚀 Software Engineer | AI & Web Enthusiast  
 
-## I'm a Student and a Developer!!
+🔹 Passionate about building scalable applications and optimizing performance.  
+🔹 Experienced in backend development, AI-driven applications, and system architecture.  
+🔹 Love working with cutting-edge technologies to solve real-world problems.  
 
-- 🌱 I’m currently learning Web Development
-- 👯 I’m eager to Learn About BlockChain After I master the basics of Web Development
-- 🥅 2022 Goals: To get A job at an Awesome firm | Contribute to Open Source
-- ⚡ About Me: I love to play chess and play video games
+### 🏆 Highlights:  
+- **Assistant Manager at Jio** – Building AI-powered Virtual Assistants, handling microservices & optimizing system performance.  
+- **MS in Software Engineering** at Arizona State University (2027).  
+- **Published Research** – Media Recommendation System using AI.  
+- **Blockchain & AI Enthusiast** – Developed NFT marketplace integrations & anti-scam solutions.  
 
-### Connect with me:
-[youtube]
-[linkedin]
+### 💻 Tech Stack:  
+#### **Backend:**  
+Node.js, Express, Redis, RabbitMQ, Kafka, MongoDB, Oracle, SQL, REST APIs, Docker  
 
-<br />
+#### **Frontend:**  
+React.js, Next.js, TypeScript, Sass, Tailwind CSS  
 
-### Languages and Tools:
+#### **DevOps & Tools:**  
+Git, Jest, Apache JMeter, Elastic Search  
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="css" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
-<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
-<br />
-<br />
+#### **Others:**  
+C/C++, Python, Solidity  
 
 ---
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Hero's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Hero4440&show_icons=true&hide_border=true" />
+### 📌 Featured Projects:  
+- **[Jio EVA](https://jioeva.ai/)** – AI-driven voice assistant serving 100K+ users.  
+- **[Media Recommender](https://github.com/Hero4440/Movie-Songs-Recommender-System-BE-Project)** – AI-based recommendation system for movies, books, and songs.  
+- **[E-commerce App](https://github.com/Hero4440/e_commerceapp)** – Scalable e-commerce platform.  
 
-</details>
+---
 
-[website]:https://hero4440.github.io/Personal-Website/
-[youtube]: https://www.youtube.com/channel/UCJPNUXaczPKuUsHPplVXRbg
-[linkedin]: https://www.linkedin.com/in/tejas-shah-4820bb195/
+### 🎯 Current Goals:  
+- 📌 Advancing expertise in **AI & System Optimization**  
+- 🔗 Exploring **Blockchain Development**  
+- 📖 Publishing more **AI & Software Engineering Research**  
 
+---
 
+### 📢 Connect with me:  
+[![LinkedIn](https://img.shields.io/badge/-Tejas%20Shah-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejas-shah-4820bb195)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hero4440)  
+📧 tejasshah4440@gmail.com  
+🌐 [Portfolio Website](https://hero4440.github.io/Personal-Website/)  
