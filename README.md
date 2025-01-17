@@ -1,4 +1,4 @@
-# Hi there, I'm Tejas 👋  
+# Hi there, I'm Tejas 👋  | 🌐 [Portfolio Website](https://hero4440.github.io/Personal-Website/) 
 
 ## 🚀 Software Engineer | AI & Web Enthusiast  
 
@@ -44,5 +44,4 @@ C/C++, Python, Solidity
 ### 📢 Connect with me:  
 [![LinkedIn](https://img.shields.io/badge/-Tejas%20Shah-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejas-shah-4820bb195)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hero4440)  
-📧 tejasshah4440@gmail.com  
-🌐 [Portfolio Website](https://hero4440.github.io/Personal-Website/)  
+📧 tejasshah4440@gmail.com   
