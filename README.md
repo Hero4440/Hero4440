@@ -7,8 +7,8 @@
 🔹 Love working with cutting-edge technologies to solve real-world problems.  
 
 ### 🏆 Highlights:  
+- **MS in Software Engineering** at Arizona State University (2026).
 - **Assistant Manager at Jio** – Building AI-powered Virtual Assistants, handling microservices & optimizing system performance.  
-- **MS in Software Engineering** at Arizona State University (2027).  
 - **Published Research** – Media Recommendation System using AI.  
 - **Blockchain & AI Enthusiast** – Developed NFT marketplace integrations & anti-scam solutions.  
 
